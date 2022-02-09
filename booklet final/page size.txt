@@ -1,0 +1,4 @@
+
+regular size should be - 500 x 650
+large size should be - 1115 x 1443
+thumb size - 77 X 100
